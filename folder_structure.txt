@@ -1,0 +1,34 @@
+PORTFOLIO
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└── assets
+    │
+    ├── images
+    │   ├── profile.jpg
+    │   ├── projects
+    │   │   ├── battery-system.png
+    │   │   ├── weather-app.png
+    │   │   └── portfolio.png
+    │   │
+    │   └── gallery
+    │       ├── hackathon.jpg
+    │       ├─
+    │       └── 
+    │
+    ├── certificates
+    │   ├── 
+    │   ├── sql-certificate.pdf
+    │   └── 
+    │
+    ├── resume
+    │   └── resume.pdf
+    │
+    └── icons
+        ├── python.svg
+        ├── 
+        ├── 
+        └── 
