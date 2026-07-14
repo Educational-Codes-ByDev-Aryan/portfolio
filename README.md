@@ -19,7 +19,7 @@ Responsive developer portfolio built with HTML, CSS, JavaScript, and AI-assisted
 
 ## Live Demo
 
-(Add your Vercel URL here)
+ (https://aryan-gosavi-portfolio.vercel.app/)
 
 ## Author
 
