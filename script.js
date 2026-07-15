@@ -1,3 +1,6 @@
+
+// chatgpt promted basic javascript as per my requirements
+
 const reveals = document.querySelectorAll(".reveal");
 
 window.addEventListener("scroll", () => {
@@ -16,7 +19,6 @@ window.addEventListener("scroll", () => {
 });
 
 // wrapper for nav-bar 
-
 const menuBtn = document.querySelector(".menu-btn");
 
 const navLinks = document.querySelector(".nav-links");
