@@ -87,7 +87,7 @@ nav {
 
     width: 100%;
 
-    padding: 5px 8%;
+    padding: 20px 8%;
 
     display: flex;
 
@@ -105,7 +105,11 @@ nav {
 
 }
 
-.logo {
+/* ===========================
+           LOGO
+=========================== */
+
+/* .logo {
 
     color: var(--gold);
 
@@ -119,26 +123,45 @@ nav {
 
     transition: .4s;
 
-}
+} */
 
-.logo:hover {
+/* .logo:hover {
 
     text-shadow: 0 0 18px rgba(212, 175, 55, .8);
 
+} */
+
+
+.logo{
+    display:flex;
+    align-items:center;
 }
 
-.logo {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 1.5rem;
-    font-weight: 700;
+.logo img{
+
+    width:55px;
+    height:55px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    transition:.4s;
+
+    cursor:pointer;
+
 }
 
-.logo img {
-    width: 90px;
-    height: 90px;
+.logo img:hover{
+
+    transform:rotate(10deg) scale(1.08);
+
+    box-shadow:
+        0 0 15px rgba(212,175,55,.5);
+
 }
+
+
 
 .nav-links {
 
