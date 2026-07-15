@@ -132,32 +132,32 @@ nav {
 } */
 
 
-.logo{
-    display:flex;
-    align-items:center;
+.logo {
+    display: flex;
+    align-items: center;
 }
 
-.logo img{
+.logo img {
 
-    width:55px;
-    height:55px;
+    width: 55px;
+    height: 55px;
 
-    border-radius:50%;
+    border-radius: 50%;
 
-    object-fit:cover;
+    object-fit: cover;
 
-    transition:.4s;
+    transition: .4s;
 
-    cursor:pointer;
+    cursor: pointer;
 
 }
 
-.logo img:hover{
+.logo img:hover {
 
-    transform:rotate(10deg) scale(1.08);
+    transform: rotate(10deg) scale(1.08);
 
     box-shadow:
-        0 0 15px rgba(212,175,55,.5);
+        0 0 15px rgba(212, 175, 55, .5);
 
 }
 
